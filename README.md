@@ -26,7 +26,7 @@
 <h2>Usage</h2>
 
 * Check out the deployed app on Heroku [Here](https://dry-island-38807.herokuapp.com/)<br>
-<img src="./assets/images/fitnesstracker.jpeg">
+<img src="/public/assets/images/fitnesstracker.jpeg">
 
 <h2>Questions</h2>
 
